@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bonderud
-- 👀 I’m interested in machine learning and web development.
+- 👀 I’m interested in machine learning and full stack development.
 - 🌱 I’m currently learning Flask and SQL while refreshing my knowledge of Python.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me mikebonderud@gmail.com
