@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bonderud
 - 👀 I’m interested in machine learning and full stack development.
-- 🌱 I’m currently exploring ML frameworks and app development while refreshing my knowledge of Python.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 🌱 I’m currently exploring ML frameworks and app development while expanding my knowledge base.
 - 📫 How to reach me mikebonderud@gmail.com
